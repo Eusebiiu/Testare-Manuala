@@ -10,6 +10,11 @@ Tools used: Jira, Zephyr Squad.
 
 The below stories was created in Jira and describes the functional specifications of the "User atuthentication" module, for which the final project is performed upon.
 
+You can find a example of one of the stories that were created below: 
+
+![image](https://github.com/user-attachments/assets/24ec79e2-3b15-4ecf-b8d2-3f849dcc3864)
+
+
 **inserati aici fie poza cu story-ul / story-urile daca aveti mai putine, dar daca aveti mai mult de doua recomand sa descarcati story-urile din jira si sa le incarcati ca fisier**
 
 Here you can find the release that was created for this project:
