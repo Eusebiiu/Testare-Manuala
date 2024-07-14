@@ -14,10 +14,11 @@ You can find a example of one of the stories that were created below:
 
 ![image](https://github.com/user-attachments/assets/24ec79e2-3b15-4ecf-b8d2-3f849dcc3864)
 
-
+##Realease
 Here you can find the release that was created for this project:
 
-**(inserati aici o poza cu release-ul pe care l-ati creat in jira. Atentie, release-ul nu va contine si teste, ci doar epic-uri, story-uri, task-uri, subtaskuri si bug-uri)**
+![image](https://github.com/user-attachments/assets/ccac7641-cca2-44b9-a57b-ac44d923a91a)
+
 
 <h2>Testing process</h2>
 
@@ -25,19 +26,19 @@ The test process was performed based on the standard test process as described b
 
 <h3>1.1 Test planning</h3>
 
-The Test Plan is designed to describe all details of testing for all the modules from the JPetStore Demo application.
+The Test Plan is designed to describe all details of testing for User authentication module for Media Galaxy e-commerce app.
 
-The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here **(inserati link catre documentul cu planul de testare)**
+The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the project risks associated with the plan. The test plan that was created for this project can be found here **(inserati link catre documentul cu planul de testare)**
 
 <h4>1.1.1. Roles asigned to the project and persons allocated</h4>
 
-**(numele persoanelor pot sa fie fictive, doar sa treceti numele vostru ca si tester)**
-<ul>
-  <li>Project manager</li> 
-  <li>Product owner</li>
-  <li>Software developer</li>
-  <li>QA Engineer</li>
-</ul>
+
+<table>
+<tr><td>Project manager</td> <td>Ion Stratulat</td></tr>
+<tr><td>Product owner</td><td>Mihai Avramescu</td></tr>
+<tr><td>Software developer</td><td>Mierl Stoicescu</td></tr>
+<tr><td>QA Engineer</td><td>Eusebiu Mihalache</td></tr> 
+</table>
 
 <h4> 1.1.2 Entry criteria defined </h4>
 
