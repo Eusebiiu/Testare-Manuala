@@ -14,7 +14,7 @@ You can find a example of one of the stories that were created below:
 
 ![image](https://github.com/user-attachments/assets/24ec79e2-3b15-4ecf-b8d2-3f849dcc3864)
 
-##Realease
+<h3>Realease</h3>
 Here you can find the release that was created for this project:
 
 ![image](https://github.com/user-attachments/assets/ccac7641-cca2-44b9-a57b-ac44d923a91a)
