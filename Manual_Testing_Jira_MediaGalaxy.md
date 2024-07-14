@@ -115,24 +115,32 @@ The following elements are needed to be ready before the test execution phase be
 
 Test cases are executed on the created test Cycle summary:
 
-Bugs have been created based on the failed tests. The complete bug reports can be found here: 
+Bugs have been created based on the failed tests. The complete bug reports can be found [here](https://github.com/Eusebiiu/Testare-Manuala/blob/main/jira-bug.pdf)
 
 The following is a summary of the bugs that have been found
-**(inserati o lista cu titlurile bug-urilor identificate impreuna cu prioritatea si severitatea fiecaruia)**
+![image](https://github.com/user-attachments/assets/1a7c6d04-dde8-4902-a8b7-4e572732be29)
+
+<li>ST3EM-28 Priority High, Severity Medium
+<li>ST3EM-21 Priority High, Severity High
+<li>ST3EM-15 Priority High, Severity High
+
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
 1.7 Test Completion
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
-The traceability matrix was generated and can be found here: **(inserati aici fie o poza cu matricea de trasabilitate din jira, fie linkul catre fiserul excel exportat din jira cu matricea de trasabilitate. Nu uitati sa faceti filtrare dupa type = story)**
+The traceability matrix was generated and can be found here: 
+
+![image](https://github.com/user-attachments/assets/2d984592-1706-47fb-abf6-d5820674370f)
 
 Test execution chart was generated and can be found below. 
 
-**(inserati aici raportul de executie generat din jira din sectiunea de dashboards)**
+![image](https://github.com/user-attachments/assets/9b986b11-4212-49e3-9d12-72fb321a29af)
 
-The final report shows that a number **(inserati numarul de teste)** tests have failed of a total of **(inserati numarul de teste)**
 
-A number of **(inserati numarul de bug-uri)** total bugs were found, from which the priority is: **(inserati numarul de bug-uri)** are high and **(inserati numarul de bug-uri)** are medium.
+The final report shows that a number 12 tests have failed of a total of 3**
 
-**(inserati aici o concluzie generala a testarii care sa cuprinda cate teste au fost create si executate, ce procentaj aproximativ din cerintele in scop au fost acoperite, daca exista vreo functionalitate pe care nu ai apucat sa o testezi, daca bug-urile gasite impacteaza lansarea produsului in productie sau se pot fixa si ulterior, daca ai identificat riscuri de produs care trebuie mitigate, daca e vreo reecomandare pe care vrei sa o faci pentru lansare, daca sunt ceva lessons learned de care trebuie sa se tina cont la proiectele viitoare etc.)**
+A number of 3 total bugs were found, from which the priority is: 3 are high and 1 are medium.
+
+Software testing incomplete: defects identified in stories 1 and 3. 75% requirement coverage achieved, but minor bugs require fixing before launch. Recommend additional testing for remaining requirements (25%) and post-launch monitoring for continued stability.
