@@ -141,7 +141,8 @@ Test cases are executed on the created test Cycle summary:
 Bugs have been created based on the failed tests. The complete bug reports can be found [here](https://github.com/Eusebiiu/Testare-Manuala/blob/main/jira-bug.pdf)
 
 The following is a summary of the bugs that have been found
-![image](https://github.com/user-attachments/assets/1a7c6d04-dde8-4902-a8b7-4e572732be29)
+![image](https://github.com/user-attachments/assets/e24cf4f7-8441-416a-ace7-0a025562e23e)
+
 
 <li>ST3EM-28 Priority High, Severity Medium
 <li>ST3EM-21 Priority High, Severity High
