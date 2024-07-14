@@ -42,21 +42,38 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <h4> 1.1.2 Entry criteria defined </h4>
 
-**(enumerati aici toate criteriile de intrare pe care le-ati definit pentru proiectul vostru)**
+<li>The bussiness requirments must be finalized
+<li>The roles should be alcoated
+<li>Test plan must be finished and sent to stakeholders
+<li>The Entry Criteria And exit Criteria must be defined
+<li>The project risks must have been identified and mitigated
 
 <h4> 1.1.3 Exit criteria defined </h4>
 
-**(enumerati aici toate criteriile de iesire pe care le-ati definit pentru proiectul vostru)**
+<li>All key features of the software have been tested and work according to specifications.
+<li>All critical use cases have been successfully tested.
+<li>No major or critical defects have been identified that could impact the usability of the software.
+<li>The software is compatible with other systems and applications that it needs to interact with.
+<li>No significant compatibility issues have been identified that could prevent the software from being used
+<li>The deadline has been reached
 
 <h4> 1.1.4 Test scope</h4>
 
 <h5> Tests in scope: </h5>
 
-**(descrieti aici toate testele pe care intentionati sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)**
+In order to fullfill the testing objectives we are going to focus on the Register Module(and Log In Moduke) which has been places on the scope and has been targeted for improvement over the next 3 months.
+
+From the point of view the testing types and tehniques we are going to use are mostly black box testing with the fallowing test design tehniques:
+<li>Boundary Value Analysis
+<li>Equivalence Partiotioning
+<li>decision table
+
+From non-functional testing we are going to cover only usability testing and compatibility testing.
+Also negative and positive testing are to be done and retesting and regression testing will be done when defects are be going to be fixed or when modification of any type are going to be brought to the code.
 
 <h5>Tests not in scope: </h5>
 
-**(descrieti aici toate testele pe care NU intentionati sau nu puteti sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)**
+Performance and security testing will not be performed during this session of testing.
 
 <h4>1.1.5 Risks detected</h4>
 
@@ -77,11 +94,12 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 **(inserati aici motivul pentru care a fost facuta etapa de monitorizare si control si respectiv cum s-a facut aceasta etapa. Aici veti insera de asemenea si raportul de status (test status report) din zephyr - test metrics - primul din lista care sa reflecte activitatea si evolutia testarii. Recomand aici sa executati teste aproape in fiecare zi ca sa vada angajatorul implicarea voastra in testare)**
 
 <h3> 1.3 Test Analysis </h3>
-The testing process will be executed based on the application requirements. <b>(The requirements analysis has been done in order to implement the <i>early testing</i> test principle and the results can be found here - inserati linkul catre documentul de review. Parte asta specificata intre paranteze o puneti doar daca aveti cerinte si daca ati facut review)</b>. <br><br>
+The testing process will be executed based on the application requirements. 
 
 The following test conditions were found: <br>
+![image](https://github.com/user-attachments/assets/1104b129-4f23-4d5d-aab2-2da0a34b4ec5)
 
-**(aici puteti fie sa puneti o poza din jira cu titlurile tuturor testelor - din issues filtrare dupa type test sau sa scrieti cu bulinuta numele fiecarei conditii de testare pe care ati identificat-o)**
+
 
 <h3>1.4 Test Design</h3>
 
