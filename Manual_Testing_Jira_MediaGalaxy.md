@@ -79,19 +79,42 @@ Performance and security testing will not be performed during this session of te
 
 <h5>Project risks:</h5>
 
-**(enumerati aici toate riscurile de proiect pe care le-ati identificat pentru proiectul vostru)**
+<li>An important risk in any project is the risk of delay. This risk can be caused by a number of factors, such as: incorrect time estimates, insufficient resources, changes in requirements<br>
+<li>Another important risk in any project is the risk of going over budget. This risk can be caused by a number of factors, such as: incorrect cost estimates, unforeseen problems
+
 
 <h5> Product risks: </h5>
+<li>Bad reputation risk: Users may repeatedly try to sign up with an existing email address, leading to frustration and abandonment of the signup process. This can lead to negative reviews and affect the overall reputation of the site.
+<li>Loss of potential customers: Users who prefer to register through their existing social media accounts may abandon the process if they do not find this option. This can lead to the loss of potential customers.
+<li>Security Vulnerability: Accounts with invalid emails can be used for fraudulent or spam activities. Also, password recovery for these accounts becomes impossible.<br>
+<li>Email delivery issues: Account confirmation emails or other communications sent to invalid addresses will never be delivered, leaving users uncertain about their account status<br>
+<li>Password recovery issues: Users who forget their password cannot receive password reset emails to invalid addresses. This prevents them from accessing their own accounts, leading to frustration.
+<li>Incorrect data: Incomplete or incorrect user data may affect the functionality of the site and prevent the delivery of essential communications. It can also create difficulties in user analysis and strategic decision making.
 
-**(enumerati aici toate riscurile de produs pe care le-ati identificat pentru proiectul vostru)**
 
 <h4>1.1.6 Evaluating entry criteria</h4>
 
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 
-<h3>1.2 Test Monitoring and Control<h3>
+<h3>1.2 Test Monitoring and Control</h3>
 
-**(inserati aici motivul pentru care a fost facuta etapa de monitorizare si control si respectiv cum s-a facut aceasta etapa. Aici veti insera de asemenea si raportul de status (test status report) din zephyr - test metrics - primul din lista care sa reflecte activitatea si evolutia testarii. Recomand aici sa executati teste aproape in fiecare zi ca sa vada angajatorul implicarea voastra in testare)**
+The monitoring and control phase is a crucial step in the software testing process, offering several key benefits:Quality Assurance,Efficiency Optimization,Enhanced User Satisfaction.<br>
+The monitoring and control phase was carried out through:<br>
+
+Test Monitoring:<br>
+
+<li>Tracks test progress, execution times, and success/failure rates.
+<li>Identifies frequently failing tests or those with significant execution times.
+<li>Analyzes test results to identify trends and patterns indicating potential issues.
+
+Test Control:<br>
+
+<li>Adapts the testing plan based on monitoring results.
+<li>Prioritizes tests based on risk and potential defect impact.
+<li>Reallocates testing resources to areas requiring increased focus.
+
+
+![image](https://github.com/user-attachments/assets/dfa1b034-3522-490f-8367-5f63f5e0ff23)
 
 <h3> 1.3 Test Analysis </h3>
 The testing process will be executed based on the application requirements. 
@@ -139,7 +162,7 @@ Test execution chart was generated and can be found below.
 ![image](https://github.com/user-attachments/assets/9b986b11-4212-49e3-9d12-72fb321a29af)
 
 
-The final report shows that a number 12 tests have failed of a total of 3**
+The final report shows that a number 12 tests have failed of a total of 3.
 
 A number of 3 total bugs were found, from which the priority is: 3 are high and 1 are medium.
 
