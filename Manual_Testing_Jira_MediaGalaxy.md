@@ -153,7 +153,7 @@ The following is a summary of the bugs that have been found
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
 <h3>1.7 Test Completion</h3>
-As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
+Having fulfilled all stipulated exit criteria, the testing team recommends the feature for deployment.
 
 The traceability matrix was generated and can be found here: 
 
