@@ -167,6 +167,6 @@ Test execution chart was generated and can be found below.
 
 The final report shows that a number 12 tests have failed of a total of 3.
 
-A number of 3 total bugs were found, from which the priority is: 3 are high and 1 are medium.
+A number of 3 total bugs were found, from which the priority is: 2 are high and 1 are medium.
 
 Software testing incomplete: defects identified in stories 1 and 3. 75% requirement coverage achieved, but minor bugs require fixing before launch. Recommend additional testing for remaining requirements (25%) and post-launch monitoring for continued stability.
