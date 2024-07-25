@@ -127,7 +127,7 @@ The following test conditions were found: <br>
 
 <h3>1.4 Test Design</h3>
 
-Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed [here](https://github.com/Eusebiiu/Testare-Manuala/blob/main/test-cases-jira.pdf) 
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed [here](https://github.com/Eusebiiu/Testare-Manuala/blob/main/jira-test-cases.pdf)
 
 <h3>1.5 Test Implementation</h3>
 
