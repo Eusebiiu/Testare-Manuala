@@ -120,7 +120,8 @@ Test Control:<br>
 The testing process will be executed based on the application requirements. 
 
 The following test conditions were found: <br>
-![image](https://github.com/user-attachments/assets/1104b129-4f23-4d5d-aab2-2da0a34b4ec5)
+![image](https://github.com/user-attachments/assets/1f930728-5d27-4f4d-b19a-f73b8d09555b)
+
 
 
 
