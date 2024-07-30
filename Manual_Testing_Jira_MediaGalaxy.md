@@ -8,7 +8,7 @@ Tools used: Jira, Zephyr Squad.
 
 <h2>Functional specifications:</h2>
 
-The stories attached [here](https://github.com/Eusebiiu/Testare-Manuala/blob/main/stories-jira.doc) was created in Jira and describes the functional specifications of the "User atuthentication" module, for which the final project is performed upon.
+The stories attached [here](https://github.com/Eusebiiu/Testare-Manuala/blob/main/stories-jira.doc) was created in Jira and describes the functional specifications of the "User atuthentication and registration" module, for which the final project is performed upon.
 
 You can find a example of one of the stories that were created below: 
 
