@@ -36,7 +36,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 <table>
 <tr><td>Project manager</td> <td>Ion Stratulat</td></tr>
 <tr><td>Product owner</td><td>Mihai Avramescu</td></tr>
-<tr><td>Software developer</td><td>Mierl Stoicescu</td></tr>
+<tr><td>Software developer</td><td>Mirel Stoicescu</td></tr>
 <tr><td>QA Engineer</td><td>Eusebiu Mihalache</td></tr> 
 </table>
 
@@ -61,12 +61,12 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <h5> Tests in scope: </h5>
 
-In order to fullfill the testing objectives we are going to focus on the Register Module(and Log In Moduke) which has been places on the scope and has been targeted for improvement over the next 3 months.
+In order to fullfill the testing objectives we are going to focus on the Register Module(and Log In Module) which has been places on the scope and has been targeted for improvement over the next 3 months.
 
-From the point of view the testing types and tehniques we are going to use are mostly black box testing with the fallowing test design tehniques:
+From the point of view the testing types and tehniques we are going to use are mostly black box testing with the following test design tehniques:
 <li>Boundary Value Analysis
 <li>Equivalence Partiotioning
-<li>decision table
+<li>Decision table
 
 From non-functional testing we are going to cover only usability testing and compatibility testing.
 Also negative and positive testing are to be done and retesting and regression testing will be done when defects are be going to be fixed or when modification of any type are going to be brought to the code.
@@ -137,7 +137,7 @@ The following elements are needed to be ready before the test execution phase be
 
 <h3>1.6. Test Execution </h3>
 
-Test cases are executed on the created test Cycle summary:
+Test cases are executed on the created test Cycle summary: User Authentication
 
 Bugs have been created based on the failed tests. The complete bug reports can be found [here](https://github.com/Eusebiiu/Testare-Manuala/blob/main/jira-bug.pdf)
 
